@@ -7,7 +7,7 @@
 - [Prompt](https://github.com/upkarlidder/ua-innovate/blob/main/README.md#prompt)
 - [Deliverables](https://github.com/upkarlidder/ua-innovate/blob/main/README.md#deliverables)
 - [Evaluation](https://github.com/upkarlidder/ua-innovate/blob/main/README.md#evaluation)
-- [Support]()
+- [Support](https://github.com/upkarlidder/ua-innovate/blob/main/README.md#support)
 
 ## Getting Started
 
