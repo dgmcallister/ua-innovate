@@ -2,8 +2,8 @@
 
 
 ## Table of Contents
-- [Getting Started]( )
-- [Prompt]()
+- [Getting Started](https://github.com/upkarlidder/ua-innovate/blob/main/README.md#getting-started)
+- [Prompt](https://github.com/upkarlidder/ua-innovate/blob/main/README.md#prompt)
 - [Deliverables]()
 - [Events]()
 - [Support]()
