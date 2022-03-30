@@ -9,18 +9,23 @@
 
 ### Step 2
 - Sign up for your IBM Cloud Trial Account
-- [ibm.biz/ua-ibm-cloud](ibm.biz/ua-ibm-cloud)
+- [http://ibm.biz/ua-ibm-cloud](http://ibm.biz/ua-ibm-cloud)
 - Needed for Watson Studio and other IBM services.
 
 
 ### Step 3
 - Create Watson Studio Instance
     - **Select lite tier**
-- [ibm.biz/us-studio](ibm.biz/ul-studio)
+- [http://ibm.biz/ua-studio](http://ibm.biz/ua-studio)
 
 ### Step 4
 - Get all hackathon information
-- [ibm/biz/ua-innovate](ibm/biz/ua-innovate)
+- [http://ibm.biz/ua-innovate](http://ibm.biz/ua-innovate)
+
+### Other Resources
+- [Build Fast on IBM Cloud](https://github.com/upkarlidder/ibmhacks)
+- [Data analysis using Python](https://developer.ibm.com/learningpaths/data-analysis-using-python/)
+- [Take control of your data with Watson Studio](https://developer.ibm.com/learningpaths/get-started-watson-studio/)
 
 <br />
 
