@@ -30,3 +30,24 @@
 <br />
 
 ![Getting started with IBM Cloud](assets/ua-innovate-registration.jpg)
+
+## Prompt
+
+### How can we use building energy use data to inform business decisions that can reduce costs for companies returning to the office? 
+
+Use the provided dataset from Women in Data Science (WiDS) and address the problem statement as either a data analyst OR data scientist as follows:
+-	As a data scientist create a Machine learning Model that predicts energy efficiency for a building using the data features provide in the training dataset.
+
+- As a data analyst create a Jupyter notebook, mobile application, or website that can show a dashboard that answer the  data analysis questions below for your manager (you can answer as many as you are able to):
+   - how does energy usage vary from state to state?
+   - are there any patterns in the data for energy usage throughout the year?
+   - what does energy consumption look like for similar facility types?
+   - what type of building is least and most efficient per sq footage?
+   - how is energy consumption related to how old the facility is?
+   - are newer buildings more energy efficient?
+   - can you create a report to summarize the test data set?
+      - are there any missing data?
+      - how would you handle missing data?
+      - are there any outliers?
+      - provide statistics around numerical data?
+      - do some columns have a large number of categories?
