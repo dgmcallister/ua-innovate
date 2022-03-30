@@ -4,8 +4,8 @@
 ## Table of Contents
 - [Getting Started](https://github.com/upkarlidder/ua-innovate/blob/main/README.md#getting-started)
 - [Prompt](https://github.com/upkarlidder/ua-innovate/blob/main/README.md#prompt)
-- [Deliverables]()
-- [Events]()
+- [Deliverables](https://github.com/upkarlidder/ua-innovate/blob/main/README.md#deliverables)
+- [HackathonEvents]()
 - [Support]()
 
 ## Getting Started
@@ -68,6 +68,7 @@ To submit your entry for the Data Analaytics track, following the directions bel
 Submit to Devpost:
 
 **Data Analyst Team**:
+
 One or more of the following for your dashboard (that answers one or more of the given data analysis questions):
 - Jupyter notebook with data analytics 
 - Website with dashboard that shows data analytics
@@ -89,3 +90,13 @@ Present in person:
 -	Describe the answer you found
 -	Data Analytics charts
 -	Demo of solution
+
+## Evaluation
+
+Your solution will be evaluated on both your presentation and technical solution. Specific criteria:
+- Solution Completeness
+- Documentation
+- Technical Depth
+- Problem & Solution Description
+- Quality of Analysis & Presentation
+	
