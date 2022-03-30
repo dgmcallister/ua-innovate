@@ -1,4 +1,4 @@
-# UA Innovate Hackathon & Innovation Challenge - Data Analysis
+# UA Innovate Hackathon & Innovation Challenge - Data Analytics
 
 ## Getting Started
 
