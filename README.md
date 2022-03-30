@@ -36,9 +36,9 @@
 ### How can we use building energy use data to inform business decisions that can reduce costs for companies returning to the office? 
 
 Use the provided dataset from Women in Data Science (WiDS) and address the problem statement as either a data analyst OR data scientist as follows:
--	As a data scientist create a Machine learning Model that predicts energy efficiency for a building using the data features provide in the training dataset.
+-	**As a data scientist** create a Machine learning Model that predicts energy efficiency for a building using the data features provide in the training dataset.
 
-- As a data analyst create a Jupyter notebook, mobile application, or website that can show a dashboard that answer the  data analysis questions below for your manager (you can answer as many as you are able to):
+- **As a data analyst** create a Jupyter notebook, mobile application, or website that can show a dashboard that answer the  data analysis questions below for your manager (you can answer as many as you are able to):
    - how does energy usage vary from state to state?
    - are there any patterns in the data for energy usage throughout the year?
    - what does energy consumption look like for similar facility types?
