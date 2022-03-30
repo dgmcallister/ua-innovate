@@ -59,3 +59,33 @@ Use the [provided dataset](https://github.com/upkarlidder/ua-innovate/tree/main/
       - are there any outliers?
       - provide statistics around numerical data?
       - do some columns have a large number of categories?
+
+
+## Deliverables
+
+To submit your entry for the Data Analaytics track, following the directions below (for either data analyst or data scientist).
+
+Submit to Devpost:
+
+**Data Analyst Team**:
+One or more of the following for your dashboard (that answers one or more of the given data analysis questions):
+- Jupyter notebook with data analytics 
+- Website with dashboard that shows data analytics
+- Mobile Application with dashboard that shows data analytics
+
+Required:
+- Data visualization charts that answer the relevant data analytics questions
+
+**Data Scientist Team**
+- Jupyter notebook with machine learning model that predicts energy efficiency
+- Optional: Deployed model on IBM Cloud
+
+Present in person: 
+
+**Powerpoint presentation:**
+-	Team
+-	Problem/Question you are answering
+-	How you used code to approach the problem:
+-	Describe the answer you found
+-	Data Analytics charts
+-	Demo of solution
