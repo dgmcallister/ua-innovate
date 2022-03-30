@@ -3,7 +3,7 @@
 
 ## Table of Contents
 - [Getting Started](https://github.com/upkarlidder/ua-innovate/blob/main/README.md#getting-started)
-- [Important Data Analytics Events]()
+- [Events to join during hackathon](https://github.com/upkarlidder/ua-innovate/blob/main/README.md#data-analytics-events)
 - [Prompt](https://github.com/upkarlidder/ua-innovate/blob/main/README.md#prompt)
 - [Deliverables](https://github.com/upkarlidder/ua-innovate/blob/main/README.md#deliverables)
 - [Evaluation](https://github.com/upkarlidder/ua-innovate/blob/main/README.md#evaluation)
