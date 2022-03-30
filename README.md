@@ -3,9 +3,10 @@
 
 ## Table of Contents
 - [Getting Started](https://github.com/upkarlidder/ua-innovate/blob/main/README.md#getting-started)
+- [Important Data Analytics Events]()
 - [Prompt](https://github.com/upkarlidder/ua-innovate/blob/main/README.md#prompt)
 - [Deliverables](https://github.com/upkarlidder/ua-innovate/blob/main/README.md#deliverables)
-- [HackathonEvents]()
+- [Evaluation](https://github.com/upkarlidder/ua-innovate/blob/main/README.md#evaluation)
 - [Support]()
 
 ## Getting Started
@@ -30,6 +31,9 @@
 - Get all hackathon information
 - [http://ibm.biz/ua-innovate](http://ibm.biz/ua-innovate)
 
+### Step 5
+- [Join the Slack workspace](https://join.slack.com/t/uainnovate/shared_invite/zt-15ubdvavo-3z_3l75B_izK0AunwUJVQw) to stay up to date and for additonal support. 
+
 ### Other Resources
 - [Build Fast on IBM Cloud](https://github.com/upkarlidder/ibmhacks)
 - [Data analysis using Python](https://developer.ibm.com/learningpaths/data-analysis-using-python/)
@@ -38,6 +42,15 @@
 <br />
 
 ![Getting started with IBM Cloud](assets/ua-innovate-registration.jpg)
+
+## Data Analytics events
+
+Join us for our workshops & sessions to help you with your solution.
+- Prompt Kickoff 11:30 am CST (Saturday) | Learn more about the prompt 
+- Workshop 1: Intro to Data Science Tools, 1:00 pm CST (Saturday) | Learn about the data science process & see a demo of Watson Studio
+- Workshop 2: Deep dive on Hackathon prompt, 2:30 pm CST (Saturday) | Get the help you need to get started: intro to data analytics, problem statements, registering for IBM Cloud and Watson Studio
+- Midpoint Judging, 7:00 pm CST (Saturday) | Get feedback on your solution so far from our mentors
+- Final Judging, 10:00 am CST (Sunday) | Present your solution 
 
 ## Prompt
 
@@ -99,4 +112,9 @@ Your solution will be evaluated on both your presentation and technical solution
 - Technical Depth
 - Problem & Solution Description
 - Quality of Analysis & Presentation
-	
+
+
+## Support
+Our IBM mentors are here to help you as you work through this data analytics hackathon!
+We have both in-person and virtual mentors available to help 
+Reach out for help on the #data-analytics channel in the UA Innovate Slack Workspace. Join the workspace [here.](https://join.slack.com/t/uainnovate/shared_invite/zt-15ubdvavo-3z_3l75B_izK0AunwUJVQw) 
