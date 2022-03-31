@@ -89,6 +89,7 @@ One or more of the following for your dashboard (that answers one or more of the
 
 Required:
 - Data visualization charts that answer the relevant data analytics questions
+- Use of at least one IBM service
 
 **Data Scientist Team**
 - Jupyter notebook with machine learning model that predicts energy efficiency
