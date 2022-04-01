@@ -59,7 +59,7 @@ Join us for our workshops & sessions to help you with your solution.
 Use the [provided dataset](https://github.com/upkarlidder/ua-innovate/tree/main/dataset) from Women in Data Science (WiDS) and address the problem statement as either a data analyst OR data scientist as follows:
 -	**As a data scientist** create a Machine learning Model that predicts energy efficiency for a building using the data features provide in the training dataset.
 
-- **As a data analyst** create a Jupyter notebook, mobile application, or website that can show a dashboard that answer the  data analysis questions below for your manager (you can answer as many as you are able to):
+- **As a data analyst** create a Jupyter notebook, mobile application, or website that can show a dashboard that answer the  data analysis questions for your manager -see sample questions below and feel free to come up with others (you can answer as many as you are able to):
    - how does energy usage vary from state to state?
    - are there any patterns in the data for energy usage throughout the year?
    - what does energy consumption look like for similar facility types?
@@ -93,7 +93,7 @@ Required:
 
 **Data Scientist Team**
 - Jupyter notebook with machine learning model that predicts energy efficiency
-- Optional: Deployed model on IBM Cloud
+- Optional: Deployed model on IBM Cloud (Using Watson Machine Learning in Watson Studio)
 
 Present in person: 
 
