@@ -10,6 +10,7 @@ datetime = "*"
 seaborn = "*"
 matplotlib = "*"
 jupyter = "*"
+sklearn = "*"
 
 [dev-packages]
 
