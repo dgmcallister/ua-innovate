@@ -12,6 +12,8 @@ matplotlib = "*"
 jupyter = "*"
 sklearn = "*"
 scipy = "*"
+ibm-watson-machine-learning = "*"
+statsmodels = "*"
 
 [dev-packages]
 
